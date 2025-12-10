@@ -1,0 +1,15 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 12382250
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = 0 0 0
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 0.42899999999999999 0.42899999999999999 3
+ITK_InputFilterName = MetaImageIO
+DimSize = 512 512 47
+ElementType = MET_SHORT
+ElementDataFile = TRV2P4CTI.zraw

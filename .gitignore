@@ -1,0 +1,14 @@
+# ambientes virtuais
+venv/
+.venv/
+
+# arquivos python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
